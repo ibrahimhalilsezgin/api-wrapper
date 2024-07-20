@@ -25,7 +25,7 @@ const embed = new Embed()
 client.on('mesajOluştur', (msg:any) => {
     if(msg.content == "test") {
         msg.channel.send(null, embed)
-        db.ekle('sa', 1);
+        db.ekle('elma', 1);
     }
 })
 client.on('sunucu_oluştu', (guild:any) => {
