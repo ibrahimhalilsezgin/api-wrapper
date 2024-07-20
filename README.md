@@ -1,4 +1,4 @@
-# b
+# discord-api-wrapper
 
 To install dependencies:
 
